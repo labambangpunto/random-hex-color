@@ -17,7 +17,7 @@
     "random-color"
   ],
   "author": "",
-  "license": "MIT",
+  "license": "GPL-3.0-only",
   "devEngines": {
     "packageManager": {
       "name": "pnpm",
